@@ -6,7 +6,7 @@
 ## usage
 
 ```js
-import { sha256 } from "./sha256.js";
+import { sha256 } from "https://taisukef.github.io/SHA256-WebGPU/sha256.js";
 
 const input = "abc";
 const result = await sha256(input);
